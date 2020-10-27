@@ -1,0 +1,7 @@
+D:\Cấu trúc dữ liệu và giải thuật\SpeedSMSAPI-CSharp\bin\Debug\SpeedSMSAPI.exe.config
+D:\Cấu trúc dữ liệu và giải thuật\SpeedSMSAPI-CSharp\bin\Debug\SpeedSMSAPI.exe
+D:\Cấu trúc dữ liệu và giải thuật\SpeedSMSAPI-CSharp\bin\Debug\SpeedSMSAPI.pdb
+D:\Cấu trúc dữ liệu và giải thuật\SpeedSMSAPI-CSharp\obj\Debug\SpeedSMSAPI.csprojAssemblyReference.cache
+D:\Cấu trúc dữ liệu và giải thuật\SpeedSMSAPI-CSharp\obj\Debug\SpeedSMSAPI.csproj.CoreCompileInputs.cache
+D:\Cấu trúc dữ liệu và giải thuật\SpeedSMSAPI-CSharp\obj\Debug\SpeedSMSAPI.exe
+D:\Cấu trúc dữ liệu và giải thuật\SpeedSMSAPI-CSharp\obj\Debug\SpeedSMSAPI.pdb
